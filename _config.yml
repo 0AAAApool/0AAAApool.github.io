@@ -23,7 +23,7 @@ content: We just launched our [0AAAA] pool and we are more then happy to see you
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "G-T49YNFQDR2" # google analytics tracking
+google_analytics: "UA-210205947-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
