@@ -1,0 +1,34 @@
+# Your Name or Company
+title: pool [0AAAA]
+
+# Description of your website. This is used for social sharing.
+description:  Home of most secure and reliable Cardano pool - [0AAAA] pool
+
+# A brief blurb about yourself
+content: We just launched our [0AAAA] pool and we are more then happy to see you here. Soon we will add some contacts details, if you are here for them. Nevertheless, you can be sure that your ADAs are in good hands. We have several physical servers in 2 continents. Our pool operator has 15+ years in Telecom and Banking industries, working for leading companies in the field and we have more then enough knowledge and experience in running critical operations.
+
+# Add your social links
+#social:
+#  - platform: github
+#    url: https://github.com/brianmaierjr
+#  - platform: facebook
+#    url: https://facebook.com/brianmaierjr
+#  - platform: twitter
+#    url: https://twitter.com/brianmaierjr
+#  - platform: linkedin
+#    url: brianmaierjr
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "G-T49YNFQDR2" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
