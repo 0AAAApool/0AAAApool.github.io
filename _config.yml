@@ -5,12 +5,12 @@ title: pool [0AAAA]
 description:  Home of most secure and reliable Cardano pool - [0AAAA] pool
 
 # A brief blurb about yourself
-content: We just launched our [0AAAA] pool and we are more then happy to see you here. Soon we will add some contacts details, if you are here for them. Nevertheless, you can be sure that our pool is most secure and reliable in Cardano universe. We have several physical servers in 2 continents. Our pool operator has 15+ years in Telecom and Banking industries, working for leading companies in the field and we have more then enough knowledge and experience in running critical operations.
+content: Welcome to [0AAAA] pool homepage! Our pool is most secure and reliable in Cardano universe. We have several physical servers in 2 continents. Our pool operator has 15+ years in Telecom and Banking industries, working for leading companies in the field and we have more then enough knowledge and experience in running critical operations.
 
 # Add your social links
-#social:
-#  - platform: github
-#    url: https://github.com/brianmaierjr
+social:
+  - platform: telegram
+    url: https://t.me/pool0AAAA
 #  - platform: facebook
 #    url: https://facebook.com/brianmaierjr
 #  - platform: twitter
