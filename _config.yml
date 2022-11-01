@@ -1,34 +1,31 @@
-# Your Name or Company
-title: pool [0AAAA]
+title: pool 0AAAA
+#author:
+#  name: pool 0AAAA
+#  email: rieger@statistik.tu-dortmund.de
+#description: 0AAAA pool's official website
 
-# Description of your website. This is used for social sharing.
-description:  Home of most secure and reliable Cardano pool - [0AAAA] pool
+google_analytics: G-LKW3CE9M5S
 
-# A brief blurb about yourself
-content: Welcome to the [0AAAA] pool's official website! In the Cardano universe, our pool is the most secure and reliable. Across Europe, we have several dedicated servers. Our pool operator has over 15 years of expertise in the telecommunications and banking sectors, having worked for some of the industry's most prestigious businesses and we have more than enough knowledge and experience to handle mission-critical operations.
+plugins:
+  - jekyll-remote-theme
 
-# Add your social links
-social:
-  - platform: telegram
-    url: https://t.me/pool0AAAA
-#  - platform: facebook
-#    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/pool0AAAA
-#  - platform: linkedin
-#    url: brianmaierjr
+remote_theme: jekyll/minima
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
-markdown: kramdown
-sharing_image: share.jpg
-google_analytics: "UA-210205947-1" # google analytics tracking
+minima:
+#  date_format: "%Y-%m-%d"
+  skin: dark
+  social_links:
+    twitter: pool0aaaa
+    telegram: pool0aaaa
 
-#### LAYOUT OPTIONS #####
+#include:
+#    - _pages
 
-# Half layout
-half_side: right
+exclude:
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
 
-# Full layout
-full_text_position: right # left, right or center
+header_pages:
+  - about.md
+  - portfolio.md
